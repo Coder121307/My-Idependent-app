@@ -1,0 +1,9 @@
+.header_div{
+    font-family: 'Azeret Mono', monospace;
+    background-color:aquamarine;
+    color: green;
+    letter-spacing: 3px;
+}
+body{
+    background-color: aquamarine;
+}
